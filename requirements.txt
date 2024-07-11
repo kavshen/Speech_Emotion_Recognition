@@ -1,0 +1,14 @@
+
+### Additional Files
+
+Include a `requirements.txt` file with the necessary Python packages:
+
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+librosa
+tensorflow
+kaggle
